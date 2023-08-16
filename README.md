@@ -1,8 +1,15 @@
 # SEMESTERPROJECT
-IMORO ABDUL RASHID
-UEB3239022
-IT B.
+NAME:  IMORO ABDUL RASHID
+
+INDEX NUMBER:UEB3239022
+
+CLASS: IT B.
+
 PROJECT DESCRIPTION
+
+
+
+
 15. Library Management System
 Library Management System provides an interface to register new users, check 
 in, report generations, manage library resources and handle book checkout. 
